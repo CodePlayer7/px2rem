@@ -1,0 +1,21 @@
+{
+  "name": "webpack-px-to-rem",
+  "version": "0.0.6",
+  "description": "convert your px attribute to rem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "px to rem",
+    "reponsive"
+  ],
+  "author": "CallMeXYZ",
+  "license": "ISC",
+  "dependencies": {
+    "loader-utils": "^0.2.11",
+    "lodash": "^3.10.1"
+  },
+  "_from": "webpack-px-to-rem@0.0.5",
+  "_resolved": "http://registry.npm.taobao.org/webpack-px-to-rem/download/webpack-px-to-rem-0.0.5.tgz"
+}
