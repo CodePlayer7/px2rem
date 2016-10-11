@@ -7,7 +7,7 @@ a webpack loader for converting `px` to `rem` when developing repsonsive webpage
   - [Introduction](#introduction)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [中文](https://github.com/CallMeXYZ/px2rem/blob/master/README-ch.md)
+  - [中文](README-ch.md)
   
 ## Introduction
 this is your css or js declaration in `px`: 
