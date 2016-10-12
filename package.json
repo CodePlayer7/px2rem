@@ -7,8 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "px to rem",
-    "reponsive"
+    "px",
+    "rem",
+    "convert",
+    "webpack"
   ],
   "author": "CallMeXYZ",
   "license": "ISC",
