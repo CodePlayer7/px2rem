@@ -9,6 +9,10 @@
     "convert",
     "webpack"
   ],
+  "repository": {	
+    "type": "git",
+    "url": "https://github.com/CallMeXYZ/px2rem.git"
+  },
   "author": "CallMeXYZ",
   "license": "ISC",
   "dependencies": {
